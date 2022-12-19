@@ -1,5 +1,5 @@
 # CRUD opration application
-
+# data store in LocalStorage
 [simplescreenrecorder-2022-12-19_11.50.52.webm](https://user-images.githubusercontent.com/110123287/208361283-34bf2707-fb14-4cba-acfc-a16a3ab2f674.webm)
 
 
